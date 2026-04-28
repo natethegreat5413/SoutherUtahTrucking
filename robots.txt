@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.stgeorgeheavyhaul.com/sitemap.xml
+Sitemap: https://stgeorgeheavyhaul.com/sitemap.xml
